@@ -43,8 +43,9 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: white;
   padding: 1em;
-  margin-left: 30em;
-  margin-right: 35em;
+  display: flex;
+  width: fit-content;
+  margin: auto;
   margin-top: 13em;
   border-radius: 50px;
   box-shadow: 3px 2px 2px 4px rgb(0, 0, 0);
